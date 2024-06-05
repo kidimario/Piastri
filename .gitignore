@@ -1,0 +1,15 @@
+*.zip
+*.tar.gz
+*.pdf
+*.sql
+openhospital-*
+Openhospital-*
+core
+gui
+doc
+CHANGELOG.md
+CHANGELOG
+.project
+*.log
+.idea
+*.iml
